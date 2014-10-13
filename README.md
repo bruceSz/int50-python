@@ -5,3 +5,4 @@ remember to rewrite binary search and find out all possible trap.
 23: need to Dnumber -= 1 figure it out why
     __hash__'s usage.
 27: using pre pointer and non-recursive mathod.
+32: half done
