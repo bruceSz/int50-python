@@ -6,3 +6,4 @@ remember to rewrite binary search and find out all possible trap.
     __hash__'s usage.
 27: using pre pointer and non-recursive mathod.
 32: half done
+
