@@ -7,3 +7,4 @@ remember to rewrite binary search and find out all possible trap.
 27: using pre pointer and non-recursive mathod.
 32: half done
 37: half done
+39: only compute max value of sum sub-matrix not the arange.
