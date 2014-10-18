@@ -8,3 +8,4 @@ remember to rewrite binary search and find out all possible trap.
 32: half done
 37: half done
 39: only compute max value of sum sub-matrix not the arange.
+45: almost done
