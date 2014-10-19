@@ -9,3 +9,5 @@ remember to rewrite binary search and find out all possible trap.
 37: half done
 39: only compute max value of sum sub-matrix not the arange.
 45: almost done
+48: need search about python float and exp
+50: half done
